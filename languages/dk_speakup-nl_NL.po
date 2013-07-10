@@ -106,7 +106,7 @@ msgstr "Twitter Bericht"
 
 #: includes/addnew.view.php:112 includes/help.php:43
 msgid "Petition Options"
-msgstr "Petitie "
+msgstr "Petitie opties"
 
 #: includes/addnew.view.php:121 includes/help.php:17
 msgid "Confirm signatures"
@@ -114,7 +114,7 @@ msgstr "bevestig handtekeningen"
 
 #: includes/addnew.view.php:124
 msgid "Return URL"
-msgstr "Keer terug URL"
+msgstr "URL om terug te keren"
 
 #: includes/addnew.view.php:133 includes/help.php:18
 msgid "Allow custom messages"
@@ -122,7 +122,7 @@ msgstr "Laat Aangepaste berichten"
 
 #: includes/addnew.view.php:141 includes/help.php:19
 msgid "Set signature goal"
-msgstr "Zet handtekening gewenst resultaat"
+msgstr "Gewenste aantal handtekeningen"
 
 #: includes/addnew.view.php:144 includes/petitions.view.php:20
 #: includes/petitions.view.php:29
@@ -183,7 +183,7 @@ msgstr "Dec"
 
 #: includes/addnew.view.php:190 includes/help.php:48
 msgid "Display Options"
-msgstr "Scherm Opties"
+msgstr "Schermopties"
 
 #: includes/addnew.view.php:199 includes/help.php:23
 msgid "Display address fields"
@@ -730,7 +730,7 @@ msgstr "Beheerder Scherm"
 
 #: includes/install.php:64
 msgid "Sign Now"
-msgstr "Ondertekenen Nu"
+msgstr "Nu ondertekenen"
 
 #: includes/install.php:65
 msgid "This petition is now closed."
