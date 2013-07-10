@@ -77,7 +77,7 @@ Yes, simply place the signaturelist shortcode wherever you want the list to appe
 `[signaturelist id="1"]`
 
 = Can I download a list of my petition's signatures? =
-Yes. To download the signatures in CSV format, click the "Download as CSV" button at the top of the Signatures screen. If you do not see a "Download as CSV" button on this screen, you will first need to select yuor petition from the drop-down list.
+Yes. To download the signatures in CSV format, click the "Download as CSV" button at the top of the Signatures screen. If you do not see a "Download as CSV" button on this screen, you will first need to select your petition from the drop-down list.
 
 = I downloaded the CSV file, but when I open it in a spreadsheet application, the values aren't in the correct columns. Can I fix this? =
 If the CSV file looks scrambled, try changing its filename extension from .csv to .txt and then re-opening it in your spreadsheet app. The columns should be arranged correctly. (If you wish to keep the .csv extension, once you've opened the .txt file, re-save it as a CSV from your spreadsheet app, which will structure the contents of the file in a version of the CSV format that it understands.)
